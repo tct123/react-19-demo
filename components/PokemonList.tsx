@@ -30,7 +30,7 @@ export function PokemonList({ activeTab, onTabChange }: TabHeaderProps) {
           <View style={styles.listHeader}>
             <Text style={styles.sectionTitle}>First 20 Pokémon</Text>
             <Text style={styles.sectionSubtitle}>
-              Using React 19's <Text style={styles.code}>use()</Text> hook to
+              Using React 19&apos;s <Text style={styles.code}>use()</Text> hook to
               resolve the fetch promise
             </Text>
           </View>
